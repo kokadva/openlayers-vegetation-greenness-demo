@@ -19,4 +19,4 @@ Simple demo project combining Vegetation Greenness with Box drawing
 3. A new directory will be created called `dist`
 4. You have to copy all files and folders from `dist` to the FTP server
 
-## Authors: Konstantine Dvalishvili
+#### Authors: Konstantine Dvalishvili
